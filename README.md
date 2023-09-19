@@ -1,2 +1,1 @@
-# CMSC124
-This is my repository for my CMSC 124 lab.
+I am editing the README file. Adding some more details about the project description.
